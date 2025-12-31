@@ -11,8 +11,10 @@ This program asks the user for a value, stores it as a string and then prints it
 
 example:
 answer = input("Who is the best player?")
+
 print("Yes, that's right.", answer, "is the best footballer in history.")
 
 Output:
 Who is the best player?messi
+
 Yes, that's right. messi is the best footballer in history.
